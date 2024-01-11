@@ -9,7 +9,7 @@ Please find my code in the file called: CryptoClustering
 The following I found in my analysis:
 The best value for K using my original data: 4
 The best value for K using PCA: 4
-The variance between the three prinicpal compenents is 89.50%
+The variance between the three prinicpal compenents is 89.50%. This means that the selected principal components capture 89.50% of the variability in the original dataset, which is a good value.
 
 * **Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
