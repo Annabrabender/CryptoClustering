@@ -1,7 +1,7 @@
 # CryptoClustering
 
 
-In this assignment I use my knowledge of Pyhton and unsupervised learning to predict if cryptocurrancies are affected by 24 hour or 7 day price changes. 
+In this assignment I use my knowledge of Python and unsupervised learning to predict if cryptocurrancies are affected by 24 hour or 7 day price changes. 
 
 
 Please find my code in the file called: CryptoClustering
